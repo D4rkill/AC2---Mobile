@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ProvaAC2</string>
+    <string-array name="opcoesTipo">
+        <item>Selecione o Tipo</item>
+        <item>Filme</item>
+        <item>Série</item>
+        <item>Documentário</item>
+        <item>Animação</item>
+    </string-array>
+    <string-array name="opcoesGenero">
+        <item>Selecione o Genero</item>
+        <item>Ação</item>
+        <item>Comédia</item>
+        <item>Drama</item>
+        <item>Terror</item>
+        <item>Ficção Científica</item>
+    </string-array>
+</resources>
